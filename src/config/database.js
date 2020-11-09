@@ -18,19 +18,19 @@ module.exports = {
 ////=== === === === === === === ===  
   
 // //// ===  configuração Umbler New  ===
-      host: 'mysql741.umbler.com',
-      port: 41890,
-      username: 'sqlallexnew',
-      password: 'sql123456new',
-      database: 'escolanew',
+    //   host: 'mysql741.umbler.com',
+    //   port: 41890,
+    //   username: 'sqlallexnew',
+    //   password: 'sql123456new',
+    //   database: 'escolanew',
 // ////=== === === === === === === ===  
 
 //// ===  configuração Umbler Gincana  ===
-// host: 'mysql669.umbler.com',
-// port: 41890,
-// username: 'sqlallexgin',
-// password: 'SQL123456',
-// database: 'escola04gin',
+host: 'mysql669.umbler.com',
+port: 41890,
+username: 'sqlallexgin',
+password: 'SQL123456',
+database: 'escola04gin',
 ////=== === === === === === === ===  
 
 //// ===  configuração Amazon  ===
